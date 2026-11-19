@@ -16,7 +16,7 @@ final List<ApodModel> fakeDate = [
   ApodModel(
     date: "2026-11-15",
     title: "Leonid Meteors Through Orion",
-    hdurl: "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Leonids2022_Hongyang_2880.jpg?w=2880&h=3600&fit=clip",
+    hdurl: "https://science.nasa.gov/image-article/apod-2026-november-14-apollo-12-and-surveyor-3/",
   ),
   ApodModel(
     date: "2026-11-15",
